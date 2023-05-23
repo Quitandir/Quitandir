@@ -4,7 +4,7 @@
 
 ### About me
 
-After years working as an English teacher, I decided to make a change in my career. Initially I started studying product management, by recommendation of some friends. From there I realized that the professional transformation I seek requires experience with development. In 2022, I started studying at Alura Escola de Tecnologia and so my journey began. Even thought I was always interested in technology and the connection with the English language made that easier, I didn't know anything about computer science. These months since I started taking courses on development, using computer languagues and learning how to use them to make things work have been a wonderful experience.  
+After years of working as an English teacher, I decided to make a change in my career. Initially, I started studying product management based on the suggestion of some friends. However, I soon realized that the professional transformation I sought required experience with development. In 2022, I began studying at Alura Escola de Tecnologia, and that marked the beginning of my journey. Even though I had always been interested in technology, and the connection with the English language made it easier for me, I didn't know anything about computer science. These months since I started taking development courses, learning computer languages and how to use them to make things work, have been a wonderful experience.
 
 ### Some technologies that I'm studying are:
 
